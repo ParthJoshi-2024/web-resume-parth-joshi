@@ -18,7 +18,7 @@ import {
 
 // ─── DATA ─────────────────────────────────────────────────────────────────────
 
-const resumeUrl = '/Parth_Joshi_Resume_May_2026.pdf';
+const resumeUrl = `${import.meta.env.BASE_URL}Parth_Joshi_Resume_May_2026.pdf`;
 
 const profile = {
   name: 'Parth Joshi',

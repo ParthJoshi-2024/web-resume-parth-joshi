@@ -1,12 +1,14 @@
 # Parth Joshi — Web Resume
 
-A production-grade personal web resume built as a Single Page Application (SPA). Designed to impress hiring managers, HRs, and technical interviewers with a polished UI, smooth animations, and comprehensive professional content.
+A production-grade personal web resume built as a Single Page Application (SPA). Designed to express the work expereince details in a webpage mode with a polished UI, smooth animations, and comprehensive professional content.
 
 ---
 
 ## Live Demo
 
 > Deployed via GitHub Pages — `npm run deploy` publishes the `/dist` build to the `gh-pages` branch.
+
+Link: https://parthjoshi-2024.github.io/web-resume-parth-joshi/
 
 ---
 
